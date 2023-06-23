@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+
+.ex {
+    height: 200px;
+    padding: 30px;
+    margin: 30px;
+    display: inline-block;
+}
+
+
+.con {
+    align-items: center;
+    text-align: center;
+}
